@@ -1,4 +1,4 @@
-# Samachar
+# News-Application
 This is a News Application.
 
 ## Available Scripts
